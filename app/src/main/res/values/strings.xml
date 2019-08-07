@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PdfPrint</string>
+    <string name="item_name">Item Name</string>
+    <string name="hsn_sac">HSN/SAC</string>
+    <string name="seller_address">Seller Address</string>
+    <string name="date_of_transaction">Date of Transaction</string>
+    <string name="create_invoice">Create Invoice</string>
+    <string name="tax_rates">Tax Rates</string>
+    <string name="pan_number">Pan Number</string>
+    <string name="billing_address">Billing Address</string>
+    <string name="gstin">GSTIN</string>
+    <string name="total_price">Total Price</string>
+    <string name="calculate">Calculate</string>
+</resources>
